@@ -1,2 +1,2 @@
-# cmps360
+# cmps360 - Operating Systems
 A study of the introductory concepts in operating systems: historical  development of batch, multiprogrammed, and interactive systems; file,  memory, device, process, and thread management; interrupt and trap  handlers, abstraction layer, message passing; kernel tasks and kernel  design issues; signals and interprocess communication; synchronization,  concurrency, and deadlock problems. Prerequisite: CMPS 223
